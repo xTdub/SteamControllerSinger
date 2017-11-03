@@ -1,4 +1,9 @@
-#IDK BRAH ADD STUFF HERE
+# Steam Controller Singer
+## Orignally by Pila
+## Modified by xTdub, Krackle, and Some1fromthedark
 
-##PILA MADE THIS ORGINALLY AND WE FIXED A BUNCH OF STUFF
+[Original Repo Link](https://gitlab.com/Pilatomic/SteamControllerSinger)
 
+## What was added?
+- Support for multiple controllers
+- A "Duty Cycle Modifier" for reducing the volume of resonating notes
